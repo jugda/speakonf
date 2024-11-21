@@ -1,11 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:1.0
 BEGIN:VEVENT
-URL:https://www.eventbrite.de/e/speakonf-die-erste-speaker-unkonferenz-in-rheinmain-registrierung-54697506715
-DTSTART:20190223T090000Z
-DTEND:20190223T160000Z
-SUMMARY:SpeaKonf – Die erste Speaker-Unkonferenz in Rhein/Main
-DESCRIPTION:For details, click here: https://www.eventbrite.de/e/speakonf-die-erste-speaker-unkonferenz-in-rheinmain-registrierung-54697506715
+URL:https://www.speakonf.de/#anmeldung
+DTSTART:20250321T080000Z
+DTEND:20250321T153000Z
+SUMMARY:SpeaKonf 2025 – Die Speaker-Unkonferenz
 LOCATION:cosee GmbH -  Mina-Rees-Straße 8 -   Darmstadt - Deutschland
 END:VEVENT
 END:VCALENDAR
